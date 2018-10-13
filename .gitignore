@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Project
+Research_papers/
+glove.840B.300d.txt
+glove.840B.300d.zip
+train-v2.0.json
