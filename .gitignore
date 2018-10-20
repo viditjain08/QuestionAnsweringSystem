@@ -112,4 +112,4 @@ test_data.json
 train-v2.0.json
 dev-v2.0.json
 GloVe/*
-
+vocab.pkl
