@@ -107,4 +107,9 @@ venv.bak/
 Research_papers/
 glove.840B.300d.txt
 glove.840B.300d.zip
+train_data.json
+test_data.json
 train-v2.0.json
+dev-v2.0.json
+GloVe/*
+
