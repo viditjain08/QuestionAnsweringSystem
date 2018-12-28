@@ -104,6 +104,7 @@ venv.bak/
 .mypy_cache/
 
 #Project
+GloVe/
 Research_papers/
 glove.840B.300d.txt
 glove.840B.300d.zip
