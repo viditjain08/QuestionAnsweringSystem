@@ -116,3 +116,4 @@ GloVe/*
 vocab.pkl
 vocab&wordlen.pkl
 logs/*
+saved_model_unans_final/
